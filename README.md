@@ -34,25 +34,6 @@ ESLint and Prettier for code quality.
 
 Deployment via Vercel for frontend and Sanity Hosting for CMS.
 
-Project Structure
-
-├── app
-│   ├── (pages)
-│   │   ├── index.tsx          // Home Page
-│   │   ├── blog               // Blog Section
-│   │   └── products           // Products Section
-├── components
-│   ├── Header.tsx             // Navbar Component
-│   ├── Footer.tsx             // Footer Component
-│   └── Card.tsx               // Reusable Card Component
-├── sanity
-│   ├── schemas
-│   │   ├── blog.ts            // Blog Schema
-│   │   └── product.ts         // Product Schema
-├── utils
-│   └── api.ts                 // API Utility Functions
-└── package.json
-
 Steps to Get Started
 
 Prerequisites
